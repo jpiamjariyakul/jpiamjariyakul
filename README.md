@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![@jpiamjariyakul's Holopin board](https://holopin.me/jpiamjariyakul)](https://holopin.io/@jpiamjariyakul)
+
+Engineer, composer, musician, coder, scripter, tired, must have caffeine.
